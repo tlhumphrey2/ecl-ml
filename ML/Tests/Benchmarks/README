@@ -1,0 +1,10 @@
+Each learning algorithm should have 2 entries/test programs in this folder:
+1. Small test program that compares the model produced with the model produced by the equivalent algorithm in R (this file should end with '_verify_model.ecl'.
+2. Test program that determines the speed of execution of the algorithm during learning on a large dataset (this file should end with '_runtime_on_large_trainingset.ecl'.
+
+The first program should be tested on both THOR and HTHOR. And, the dataset should have some zero values for some of the independent variables. Furthermore, the program
+ should create the model with the zeros in and removed. And, the model produced for both should be the same model.
+
+For the 2nd program (ran on large dataset), it only needs to be run on THOR. But, the dataset should contain some zero values for independent variables. 
+And the learning should be done with and without zeros in the independent variables. The model should be the same with and without zero valued independent
+variables.
