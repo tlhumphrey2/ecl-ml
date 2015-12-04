@@ -73,6 +73,8 @@ The name of any test ECL program for verifying a model's correctness should end 
 
 For a model correctness test ECL program, place in a comment block at the top of the program, a small R program that executes R's version of the learning algorithm and outputs the model. You don't have to use R. We will accept other statistical languages. But we must be able to run your "other language" program.
 
+All ECL Programs for verifying a learner's execution time on large training sets **must be ran on the HPCC THOR, openml.hpccsystems.com** (You need a username and password to access this HPCC cluster. So, send an email to admin@openml.hpccsystems.com to request a password for this HPCC cluster. In the email, provide the username you want.) 
+
 ## Other Useful Information for Submissions
 
 The example programs given in the folder, [ML.Tests.Explanatory](https://github.com/hpcc-systems/ecl-ml/tree/master/ML/Tests/Explanatory), is a good place to start making a test ECL program that verifies the correctness of the created model for one of the target learning algorithms. All of the target learning algorithms have at least one example program in this folder.
