@@ -45,7 +45,7 @@ For instructions for making a local copy of the ML repository (one that is on yo
 
 There are several methods for getting access to a THOR Cluster.
 
-1. We have setup an HPCC System that you can access. Its URL is  **openml.hpccsystems.com** (to access this cluster's ECL Watch enter **openml.hpccsystems.com:8010** into your browser's address bar). (**This system must be used for any performance tests**, for example execution speed tests.)<br><br>You need a username and password to access this HPCC cluster. So, send an email to admin@openml.hpccsystems.com to request a password for this HPCC cluster. In the email, provide the username you want.
+1. We have setup an HPCC System that you can access. Its URL is  **openml.hpccsystems.com** (to access this cluster's ECL Watch enter **openml.hpccsystems.com:8010** into your browser's address bar). (**This system must be used for any performance tests**, for example execution speed tests.)<br><br>You need a username and password to access this HPCC cluster. So, send an email to admin@openml.hpccsystems.com to request a password for this HPCC cluster. In the email, 1) start the subject line with "**credentials:**" (no quotes) and 2) provide the username you want.
 
 2. A virtual HPCC System can be gotten [here](https://hpccsystems.com/download/virtual-machine-image).
 3. If you have an Amazon Cloud (AWS) account, you can use our [InstantCloud](https://aws.hpccsystems.com/aws/login).
