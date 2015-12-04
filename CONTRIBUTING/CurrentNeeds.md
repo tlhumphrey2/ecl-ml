@@ -67,7 +67,7 @@ Also, notice that these two test ECL programs use two different methods for obta
 
 ## Submission Requirements
 
-Submissions should be placed in the folder, [ML.Tests.Benchmarks](https://github.com/hpcc-systems/ecl-ml/tree/master/ML/Tests/Benchmarks). 
+ECL Program Submissions should be placed in the folder, [ML.Tests.Benchmarks](https://github.com/hpcc-systems/ecl-ml/tree/master/ML/Tests/Benchmarks). 
 
 The name of any test ECL program for verifying a model's correctness should end with "\_verify\_model.ecl". And, the name of any test ECL program for verifying the execution time of a learner on a large training set should end with "\_runtime\_on\_large\_trainingset.ecl".
 
