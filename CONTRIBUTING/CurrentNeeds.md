@@ -81,7 +81,7 @@ The example programs given in the folder, [ML.Tests.Explanatory](https://github.
 
 Read the documentation, [LinearRegressionIntroduction.htm and LogisticRegressionIntroduction.htm](https://github.com/hpcc-systems/ecl-ml/tree/master/docs), for the Linear and Logistic test ECL programs in the Benchmarks folder.
 
-**Getting execution times:** After you have ran a test ECL program, you can get execution times in ECL Watch by 1) clicking on your workunit's id,  then 2) click on the "Timers" tab, and then 3) scrolling to the end of the list of timings where you will see "Total cluster time", which is given in seconds.
+**Getting execution times:** After you have ran a test ECL program, you can get execution times in ECL Watch by 1) clicking on your workunit's id,  then 2) clicking on the "Timers" tab, and then 3) scrolling to the end of the list of timings where you will see "Total cluster time", which is given in seconds.
 
 **Answers to questions** related to HPCC Systems can often be found by doing a Google search that includes "site:hpccsystems.com" (without the quotes).
 
