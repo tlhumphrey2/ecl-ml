@@ -73,7 +73,7 @@ The name of any test ECL program for verifying a model's correctness should end 
 
 For a model correctness test ECL program, place in a comment block at the top of the program, a small R program that executes R's version of the learning algorithm and outputs the model. You don't have to use R. We will accept other statistical languages. But we must be able to run your "other language" program.
 
-All ECL Programs for verifying a learner's execution time on large training sets **must be ran on the HPCC THOR, openml.hpccsystems.com** (You need a username and password to access this HPCC cluster. So, send an email to admin@openml.hpccsystems.com to request a password for this HPCC cluster. In the email, provide the username you want.) 
+All ECL Programs for verifying a learner's execution time on large training sets **must be ran on the HPCC THOR, openml.hpccsystems.com** (You need a username and password to access this HPCC cluster. So, send an email to admin@openml.hpccsystems.com to request a password for this HPCC cluster. In the email, 1) start the subject line with "**credentials:**" (no quotes) and 2) provide the username you want.) 
 
 ## Other Useful Information for Submissions
 
