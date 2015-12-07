@@ -5,19 +5,20 @@ This document is for those who have never contributed to our Machine Learning (M
 
 What we hope to cover, here, is everything you need to get started as a contributor. I believe the following list covers everything. By the way, you can use the order of this list to tell you when to do what.
 
- - Get a github account (click [here](#get-github-account) for instructions).
- - Download git onto your PC (click [here](#download-git) for instructions).
- - Setup git onto your PC (click [here](#setup-git) for instructions).
- - For the ML repository, make 1) a fork of it on github and 2) a local copy of it  (click [here](#fork-and-make-a-local-copy-of-the-ml-repository) for instructions).
- - Get access to our THOR cluster for contributors or download a VMWare HPCC System (click [here](#get-access-to-thor-cluster) for instructions).
- - Download ECL IDE (click [here](#download-ecl-ide) for instructions).
- - Configure ECL IDE so local ML repository is seen (click [here](#configure-ecl-ide-so-local-ml-repository-is-seen) for instructions).
- - Learn ECL (click [here](#configure-ecl-ide) for instructions).
- - Run some of the example ML programs (click [here](#run-example-ml-programs) for example).
- - Decide what contribution you want to make (look at our [Current Needs](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md)).
- - Make a branch in your local ML repository for your contribution (click [here](#creating-a-branch) for instructions).
- - Make a contribution
- - Create a pull request (click [here](#create-pull-request) for instructions).
+ 1. Get a github account (click [here](#get-github-account) for instructions).
+ 2. Download git onto your PC (click [here](#download-git) for instructions).2
+ 3. Setup git onto your PC (click [here](#setup-git) for instructions).
+ 4. For the ML repository, make 1) a fork of it on github and 2) a local copy of it  (click [here](#fork-and-make-a-local-copy-of-the-ml-repository) for instructions).
+ 5. Get access to our THOR cluster for contributors or download a VMWare HPCC System (click [here](#get-access-to-thor-cluster) for instructions).
+ 6. Download ECL IDE (click [here](#download-ecl-ide) for instructions).
+ 7. Configure ECL IDE so local ML repository is seen (click [here](#configure-ecl-ide-so-local-ml-repository-is-seen) for instructions).
+ 8. Learn ECL (click [here](#configure-ecl-ide) for instructions).
+ 9. Run some of the example ML programs (click [here](#run-example-ml-programs) for example).
+ 10. Decide what contribution you want to make (look at our [Current Needs](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md)).
+ 11. Make a JIRA ticket explaining your design (click [here](https://confluence.atlassian.com/jira/creating-an-issue-185729660.html) for details) so we can debate your design with you. **UNLESS** your contribution is one of our [current needs](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md). For a current need contribution, refer to [CurrentNeeds.md](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md).
+ 12. Make a branch in your local ML repository for your contribution (click [here](#creating-a-branch) for instructions).
+ 13. Make a contribution
+ 14. Create a pull request (click [here](#create-pull-request) for instructions).
 
 ## Get Github Account
 
