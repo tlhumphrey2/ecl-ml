@@ -17,7 +17,7 @@ What we hope to cover, here, is everything you need to get started as a contribu
  10. Decide what contribution you want to make (look at our [Current Needs](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md)).
  11. Make a JIRA ticket explaining your design (click [here](https://confluence.atlassian.com/jira/creating-an-issue-185729660.html) for details) so we can debate your design with you. **UNLESS** your contribution is one of our [current needs](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md). For a current need contribution, refer to [CurrentNeeds.md](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md).
  12. Make a branch in your local ML repository for your contribution (click [here](#creating-a-branch) for instructions).
- 13. Create your contribution and test it (details given in [CurrentNeeds.md](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md).
+ 13. Create your contribution and test it (details given in [CurrentNeeds.md](https://github.com/hpcc-systems/ecl-ml/CONTRIBUTING/CurrentNeeds.md)).
  14. Create a pull request (click [here](#create-pull-request) for instructions).
 
 ## Get Github Account
