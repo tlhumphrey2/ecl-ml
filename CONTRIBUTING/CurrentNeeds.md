@@ -9,7 +9,7 @@ We need two ECL verification programs for each the following learning algorithms
  - Deep Learning
  - Neural Networks
 
-One program verifies the correctness of the model created by the learner of one of the above learning algorithms. And, another verifies the execution time, on large training set, of the learner of one of the above learning algorithms. The details can be found [here](https://track.hpccsystems.com/browse/ML-266).
+One program verifies the correctness of the model created by the learner of one of the above learning algorithms. And, another verifies the execution time, on large training set, of the learner of one of the above learning algorithms. The details can be found in this [JIRA](https://track.hpccsystems.com/browse/ML-266).
 
 
 Examples are in the [ML.Tests.Benchmarks](https://github.com/hpcc-systems/ecl-ml/ML/Tests/Benchmarks) folder, there are two examples of ECL programs that verify the correctness of the created model and two examples of ECL programs that verify the execution time of the learner on large training sets. The following are these test ECL programs:
